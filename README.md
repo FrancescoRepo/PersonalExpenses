@@ -15,3 +15,6 @@ A little apple that keeps track of the personal expenses.
   This command will download all the dependencies necessary for the app
 
 - Run the application
+
+## License
+PersonalExpenses is available under the MIT license. See the LICENSE file for more info.
